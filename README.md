@@ -32,7 +32,7 @@ Gemini Workout Buddy is a smart, AI-powered fitness web app that generates **per
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/gemini-workout-buddy.git
+git clone https://github.com/Rujit69/Workout-AI-Agent.git
 cd gemini-workout-buddy
 ```
 
